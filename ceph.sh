@@ -1,3 +1,4 @@
+# #Run on Ceph0 .Update Below Hostnames and IPs according to your infra
 cephadm bootstrap --mon-ip 192.168.0.30 \
 --initial-dashboard-user "ceph-admin" \
 --initial-dashboard-password "ADMIN_123" \
